@@ -1,8 +1,9 @@
 # Dynalist content export Markdown
 
 ## Notice:
-    - Note need append "> " or "`"
-    ![]()
+    - In dynalist Note need append "> " or "`"
+    
+    ![Screen Shot 2018-07-20 at 16.49.41.png](https://github.com/NominationP/dynalist_export_markdown/blob/master/Screen%20Shot%202018-07-20%20at%2016.49.41.png)
 
 ## Trans Regulation
 
