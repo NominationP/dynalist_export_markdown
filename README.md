@@ -21,4 +21,6 @@ $ruler =    [
 
 ## Operate
 
-
+1. put file to example/
+2. modified run.php ==> file path
+3. run run.php ==> markdown file apear in example/....md
